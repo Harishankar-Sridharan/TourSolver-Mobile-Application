@@ -19,5 +19,3 @@
     * [MainActions-Dashboard](MainActions/Dashboard/MainActions-Dashboard.md)
   * [Settings](mainactions/settings/README.md)
     * [MainActions-Settings](MainActions/Settings/MainActions-Settings.md)
-* [Package](package/README.md)
-  * [Package-Loading and Unloading](package/package-loading-and-unloading.md)
