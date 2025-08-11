@@ -5,7 +5,7 @@
     * [AppLaunch-Login](AppLaunch/Login/AppLaunch-Login.md)
 * [Intervention](intervention/README.md)
   * [Abandon](intervention/abandon/README.md)
-    * [MainActions-Intervention-Abandon](Intervention/Abandon/Intervention-Abandon.md)
+    * [Intervention-Abandon](Intervention/Abandon/Intervention-Abandon.md)
   * [Calendar](intervention/calendar/README.md)
     * [MainActions-Calendar](Intervention/Calendar/Intervention-Calendar.md)
   * [Cancel](intervention/cancel/README.md)
