@@ -1,13 +1,13 @@
-# Sites\&Leads-Leads
+# Sites\&Leads-Sites
 
 Welcome to the **Sites & Leads** user guide for the **TourSolver Mobile application**! This guide is designed to help you efficiently access and explore customer leads, empowering you to stay organized, efficient, and informed during your daily field operations. Whether you're a new user or looking to master advanced features, this guide will walk you through everything you need to know.
 
 ### Getting Started
 
-The TourSolver Mobile application's **Sites & Leads** feature simplifies managing customer information and optimizing your field tasks.
+The ToolSolver Mobile application's **Sites & Leads** feature simplifies managing customer information and optimizing your field tasks.
 
-* **System Requirements:** The provided sources do not specify system requirements for the TourSolver Mobile application.
-* **Installation/Setup Steps:** The provided sources do not include steps for installing or setting up the TourSolver Mobile application.
+* **System Requirements:** The provided sources do not specify system requirements for the ToolSolver Mobile application.
+* **Installation/Setup Steps:** The provided sources do not include steps for installing or setting up the ToolSolver Mobile application.
 * **Initial Configuration:** The sources indicate that **leads are secondary customer locations already stored in the database**. They can have records that are either assigned or not assigned to your current route. The application automatically optimizes routes, so the distance shown is for information only, not for further optimization.
 
 ### Feature Explanations with Benefits
