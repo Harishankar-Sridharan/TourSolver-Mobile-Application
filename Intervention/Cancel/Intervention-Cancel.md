@@ -1,4 +1,4 @@
-# MainActions-Intervention-Cancel
+# Intervention-Cancel
 
 Welcome to your comprehensive guide for **TourSolver Mobile/Intervention-Cancel**! This guide is designed to help you easily manage and cancel interventions within the TourSolver Mobile application. We'll walk you through each step with clear instructions, helping you gain confidence and ensure you can handle unexpected changes with minimal effort.
 
@@ -18,37 +18,33 @@ This section provides a step-by-step guide on how to successfully cancel an inte
 
 #### **Step-by-Step Instructions**
 
-1.  **Start the Intervention (Prerequisite)**
-    Before you can cancel an intervention, you first need to begin it.
-    *   Tap **begin** to start the intervention.
-        *   📹 **0:00–0:02** (Intervention-Cancel.mp4): Tap **begin** – Start the intervention.
+1. **Start the Intervention (Prerequisite)** Before you can cancel an intervention, you first need to begin it.
+   *   Tap **begin** to start the intervention.
 
-2.  **Confirm the Intervention**
-    After tapping "begin," a confirmation pop-up will appear. You must confirm the intervention to proceed.
-    *   A confirmation pop-up appears.
-    *   Tap the **green confirm button** on this pop-up to confirm the intervention.
-        *   📹 **0:03–0:09** (Intervention-Cancel.mp4): A confirmation pop-up appears – Tap **green confirm button** to confirm the intervention.
+       <figure><img src="../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29.gif" alt="" width="360"><figcaption></figcaption></figure>
+2. **Confirm the Intervention** After tapping "begin," a confirmation pop-up will appear. You must confirm the intervention to proceed.
+   * A confirmation pop-up appears.
+   *   Tap the **green confirm button** on this pop-up to confirm the intervention.
 
-3.  **Initiate Cancellation**
-    Once you have confirmed the intervention, if you decide you need to cancel it, look for the cancellation option.
-    *   Tap the **red cancel button** located at the bottom of your screen. This action initiates the cancellation process.
-        *   📹 **0:10–0:17** (Intervention-Cancel.mp4): Tap **red cancel button** – Cancellation process initiated.
-        *   *(Please note: This guide cannot include a direct video segment or GIF, but this step typically involves a brief animation showing the button press.)*
+       <figure><img src="../../.gitbook/assets/Intervention-Cancel (1).png" alt="" width="238"><figcaption></figcaption></figure>
+3. **Initiate Cancellation** Once you have confirmed the intervention, if you decide you need to cancel it, look for the cancellation option.
+   *   Tap the **red cancel button** located at the bottom of your screen. This action initiates the cancellation process.
 
-4.  **Confirm the Cancellation**
-    To prevent accidental cancellations, the system will ask you for a final confirmation.
-    *   A new confirmation pop-up appears.
-    *   Tap the **green confirm button** on this pop-up to finalize the cancellation.
-        *   📹 **0:18–0:23** (Intervention-Cancel.mp4): A confirmation pop-up appears – Tap **green confirm button** to confirm the cancellation.
-        *   *(Please note: This guide cannot include a direct video segment or GIF, but this step typically involves a brief animation showing the pop-up and button press.)*
+       <figure><img src="../../.gitbook/assets/Intervention-Cancel 2.png" alt="" width="229"><figcaption></figcaption></figure>
 
-5.  **Verify Successful Cancellation**
-    After confirming the cancellation, the app will provide a message indicating the outcome of your action.
-    *   You will see a message confirming that **"The intervention has been cancelled successfully"**. This confirms that the intervention is no longer active.
-        *   📹 **0:25–0:27** (Intervention-Cancel.mp4): Cancellation message – The intervention has been cancelled successfully.
-        *   *(Please note: This guide cannot include a direct video segment or GIF, but this step typically involves a brief animation showing the success message.)*
+       * _(Please note: This guide cannot include a direct video segment or GIF, but this step typically involves a brief animation showing the button press.)_
+4.  **Confirm the Cancellation** To prevent accidental cancellations, the system will ask you for a final confirmation.
 
-*(Note: This guide is unable to provide visual aids like screenshots or diagrams as per its current capabilities.)*
+    * A new confirmation pop-up appears.
+    * Tap the **green confirm button** on this pop-up to finalize the cancellation.
+
+    <figure><img src="../../.gitbook/assets/Intervention-Cancel 3 (3).png" alt="" width="228"><figcaption></figcaption></figure>
+5. **Verify Successful Cancellation** After confirming the cancellation, the app will provide a message indicating the outcome of your action.
+   *   You will see a message confirming that **"Status reverted to the accepted successfully"**. This confirms that the intervention is no longer active.
+
+
+
+       <figure><img src="../../.gitbook/assets/Intervention-Cancel 4 (1).png" alt="" width="229"><figcaption></figcaption></figure>
 
 ### Productivity Tips
 

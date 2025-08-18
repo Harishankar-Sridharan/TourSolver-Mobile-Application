@@ -23,7 +23,7 @@ Here’s how to abandon an intervention in TourSolver Mobile:
 
 2\. **Locate and Tap the Abandon Button** \* Once you've opened the intervention, if you decide to abandon it, look for the dedicated button.
 
-![](../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29.gif)
+![](<../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29 (1).gif>)
 
 3\. **Confirm the Abandonment** \* After tapping the abandon button, a pop-up window will appear on your screen to confirm your action. This is a safety measure to prevent accidental abandonments.
 
