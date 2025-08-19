@@ -4,10 +4,10 @@ Welcome to the **Sites & Leads** user guide for the **TourSolver Mobile applicat
 
 ### Getting Started
 
-The ToolSolver Mobile application's **Sites & Leads** feature simplifies managing customer information and optimizing your field tasks.
+The TourSolver Mobile application's **Sites & Leads** feature simplifies managing customer information and optimizing your field tasks.
 
-* **System Requirements:** The provided sources do not specify system requirements for the ToolSolver Mobile application.
-* **Installation/Setup Steps:** The provided sources do not include steps for installing or setting up the ToolSolver Mobile application.
+* **System Requirements:** The provided sources do not specify system requirements for the TourSolver Mobile application.
+* **Installation/Setup Steps:** The provided sources do not include steps for installing or setting up the TourSolver Mobile application.
 * **Initial Configuration:** The sources indicate that **leads are secondary customer locations already stored in the database**. They can have records that are either assigned or not assigned to your current route. The application automatically optimizes routes, so the distance shown is for information only, not for further optimization.
 
 ### Feature Explanations with Benefits
@@ -31,7 +31,7 @@ To begin, you need to access the main Sites & Leads section from your dashboard.
 1. From the dashboard, **tap** on the **Sites and Leads** button located at the bottom of the screen, next to the Calendar tab.
 2. Next, **tap** the S**ites** option, which is located before the Leads tab.
 
-![Frame at 0:21](../../images/Sites\&Leads-Leads_timestamp_0_to_21.png)
+![](../../images/Sites\&Leads-Leads_timestamp_0_to_21.png)
 
 #### Viewing and Interacting with Customer Cards
 
@@ -56,7 +56,7 @@ You can add photos to a customer's record, either by taking a new picture or upl
    * **Select a photo** from your gallery.
    * **Tap Done** to upload the image.
 
-![Frame at 1:13](../../images/Sites\&Leads-Leads_timestamp_1_to_13.png)
+![](../../images/Sites\&Leads-Leads_timestamp_1_to_13.png)
 
 #### Relocating a Customer Site
 
@@ -74,7 +74,7 @@ You can quickly copy customer details for easy sharing.
 
 1. **Tap** the **copy button** located just below the photo icon.
 
-![Frame at 2:16](../../images/Sites\&Leads-Leads_timestamp_2_to_16.png)
+![](../../images/Sites\&Leads-Leads_timestamp_2_to_16.png)
 
 #### Sending Customer Details to Another Device
 
@@ -83,7 +83,7 @@ You can share customer details with another person using a QR code.
 1. After copying the customer details, **tap Send to device**.
 2. **Tap Use QR code**.
 
-![Frame at 2:22](../../images/Sites\&Leads-Leads_timestamp_2_to_22.png)
+![](../../images/Sites\&Leads-Leads_timestamp_2_to_22.png)
 
 #### Navigating Using Maps
 
@@ -93,7 +93,7 @@ The application integrates with navigation apps like Google Maps for seamless dr
 2. The app will offer available navigation options, such as **Google Maps**.
 3. **Select Google Maps**.
 
-![Frame at 2:44](../../images/Sites\&Leads-Leads_timestamp_2_to_44.png)
+![](../../images/Sites\&Leads-Leads_timestamp_2_to_44.png)
 
 #### Linking Documents
 
@@ -111,7 +111,7 @@ You can link important documents to a customer's record, either by taking a phot
    * **Tap Confirm** to proceed.
    * **Select a document** from the folder.
 
-![Frame at 3:13](../../images/Sites\&Leads-Leads_timestamp_3_to_13.png)
+![](../../images/Sites\&Leads-Leads_timestamp_3_to_13.png)
 
 #### Switching Between List and Map Views
 
@@ -121,7 +121,7 @@ You can switch between two views to best suit your needs:
    * **Result**: The app displays customer locations on a map.
 2. To view a detailed summary of customer information, **tap the list icon**.
 
-![Frame at 4:01](<../../.gitbook/assets/Sites (1).png>)
+![](<../../.gitbook/assets/Sites (1).png>)
 
 #### Searching for Customers
 
@@ -132,7 +132,7 @@ Quickly find specific customer entries using the search bar.
 3. **Select the address** from the drop-down list.
    * **Result**: The address results will display.
 
-![Frame at 4:23](<../../.gitbook/assets/Sites (2).png>)
+![](<../../.gitbook/assets/Sites (2).png>)
 
 #### Displaying Nearby Sites ("Around Me")
 
@@ -141,7 +141,7 @@ See customer sites close to your current location on the map.
 1. **Tap** the **Around Me button** to display nearby sites on the map.
 2. You can **zoom in and zoom out** to view the customer's location more closely.
 
-![Frame at 4:51](<../../.gitbook/assets/Sites (3).png>)
+![](<../../.gitbook/assets/Sites (3).png>)
 
 #### Filtering by Distance or Time
 
@@ -152,7 +152,7 @@ Narrow down your customer list based on proximity or travel time.
    * **Example**: You can filter to show only customers within a 4.35-mile radius or up to 15.53 miles, based on your service range.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
-![Frame at 5:09](../../images/Sites\&Leads-Leads_timestamp_5_to_09.png)
+![](../../images/Sites\&Leads-Leads_timestamp_5_to_09.png)
 
 ### Productivity Tips
 
@@ -161,4 +161,4 @@ Narrow down your customer list based on proximity or travel time.
 * **Keep Records Updated**: Regularly add customer photos and link documents to ensure all customer information is comprehensive and up-to-date, supporting better service.
 * **Seamless Navigation**: Always use the integrated navigation feature to save time and ensure you have the most optimized directions to your customer sites.
 
-The ToolSolver Mobile application's Sites & Leads feature is designed to empower your daily field operations, helping you stay organized, efficient, and well-informed. We hope this guide helps you make the most of its powerful capabilities!
+The TourSolver Mobile application's Sites & Leads feature is designed to empower your daily field operations, helping you stay organized, efficient, and well-informed. We hope this guide helps you make the most of its powerful capabilities!
