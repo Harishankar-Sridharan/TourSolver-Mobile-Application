@@ -14,7 +14,7 @@ The ToolSolver Mobile application's **Sites & Leads** feature simplifies managin
 
 The **Sites & Leads** feature offers a robust way to manage customer interactions:
 
-* **Customer Leads**: These are secondary customer locations already saved in your database. They provide a comprehensive list of all customer orders.
+* **Customer Sites**: These are customer locations assigned to the current route
 * **Detailed Order Cards**: Each customer order card displays essential information at a glance, including the customer’s name, address, email ID, phone number, and current location.
 * **Real-time Updates**: When you tap on a customer card, you can access detailed information that includes real-time updates of the customer's order, location, and any specific preferences like delivery instructions. You’ll also see estimated distance, estimated travel time, the territory of the lead, contacts, and linked documents.
 * **Optimized Routes**: The application comes with routes that are already optimized, meaning the displayed distance is purely for your information.
@@ -29,7 +29,7 @@ This section will guide you through the most frequent tasks you’ll perform wit
 To begin, you need to access the main Sites & Leads section from your dashboard.
 
 1. From the dashboard, **tap** on the **Sites and Leads** button located at the bottom of the screen, next to the Calendar tab.
-2. Next, **tap** the **Leads** option, which is located next to the Sites tab.
+2. Next, **tap** the S**ites** option, which is located before the Leads tab.
 
 ![Frame at 0:21](../../images/Sites\&Leads-Leads_timestamp_0_to_21.png)
 
@@ -39,11 +39,7 @@ Each customer order is presented as a card with key information.
 
 1. To view detailed information, **tap directly on any customer card**.
 
-![Frame at 0:54](../../images/Sites\&Leads-Leads_timestamp_0_to_54.png)
-
-```
-💡 **Tip**: This detailed view provides crucial context for your visit, from special delivery notes to contact information.
-```
+![](../../.gitbook/assets/Sites.png)
 
 #### Adding Customer Photos
 
@@ -62,11 +58,6 @@ You can add photos to a customer's record, either by taking a new picture or upl
 
 ![Frame at 1:13](../../images/Sites\&Leads-Leads_timestamp_1_to_13.png)
 
-```
-📹 **Timestamp 1:36–1:53** (Sites&Leads-Leads.mp4): Uploading from Gallery – Photo is added from gallery and saved.
-💡 **Tip**: Adding photos can be useful for documenting site conditions or delivery confirmations.
-```
-
 #### Relocating a Customer Site
 
 If a customer's coordinates need updating to your current position, you can do so easily.
@@ -75,11 +66,7 @@ If a customer's coordinates need updating to your current position, you can do s
 2. From the pop-up options, **select Relocate**.
 3. A confirmation message will appear. **Tap Confirm** to proceed.
 
-![Frame at 1:59](../../images/Sites\&Leads-Leads_timestamp_1_to_59.png)
-
-```
-⚠️ **Warning**: Confirming this action will permanently update the customer’s coordinates in the database. Ensure you are at the correct location.
-```
+![](../../images/Sites\&Leads-Leads_timestamp_1_to_59.png)
 
 #### Copying Customer Details
 
@@ -108,10 +95,6 @@ The application integrates with navigation apps like Google Maps for seamless dr
 
 ![Frame at 2:44](../../images/Sites\&Leads-Leads_timestamp_2_to_44.png)
 
-```
-💡 **Tip**: This feature saves time by directly launching navigation with pre-filled addresses.
-```
-
 #### Linking Documents
 
 You can link important documents to a customer's record, either by taking a photo of the document or uploading from a folder.
@@ -130,11 +113,6 @@ You can link important documents to a customer's record, either by taking a phot
 
 ![Frame at 3:13](../../images/Sites\&Leads-Leads_timestamp_3_to_13.png)
 
-```
-📹 **Timestamp 3:34–3:53** (Sites&Leads-Leads.mp4): Uploading Document from Folder – Document is uploaded and saved.
-💡 **Tip**: Linking documents helps keep all relevant information for a customer in one place.
-```
-
 #### Switching Between List and Map Views
 
 You can switch between two views to best suit your needs:
@@ -143,7 +121,7 @@ You can switch between two views to best suit your needs:
    * **Result**: The app displays customer locations on a map.
 2. To view a detailed summary of customer information, **tap the list icon**.
 
-![Frame at 4:01](../../images/Sites\&Leads-Leads_timestamp_4_to_01.png)
+![Frame at 4:01](<../../.gitbook/assets/Sites (1).png>)
 
 #### Searching for Customers
 
@@ -154,7 +132,7 @@ Quickly find specific customer entries using the search bar.
 3. **Select the address** from the drop-down list.
    * **Result**: The address results will display.
 
-![Frame at 4:23](../../images/Sites\&Leads-Leads_timestamp_4_to_23.png)
+![Frame at 4:23](<../../.gitbook/assets/Sites (2).png>)
 
 #### Displaying Nearby Sites ("Around Me")
 
@@ -163,7 +141,7 @@ See customer sites close to your current location on the map.
 1. **Tap** the **Around Me button** to display nearby sites on the map.
 2. You can **zoom in and zoom out** to view the customer's location more closely.
 
-![Frame at 4:51](../../images/Sites\&Leads-Leads_timestamp_4_to_51.png)
+![Frame at 4:51](<../../.gitbook/assets/Sites (3).png>)
 
 #### Filtering by Distance or Time
 
@@ -175,10 +153,6 @@ Narrow down your customer list based on proximity or travel time.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
 ![Frame at 5:09](../../images/Sites\&Leads-Leads_timestamp_5_to_09.png)
-
-```
-💡 **Tip**: This filter helps you prioritize visits or plan routes more effectively by focusing on customers within a manageable range.
-```
 
 ### Productivity Tips
 
