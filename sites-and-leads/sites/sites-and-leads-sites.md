@@ -152,7 +152,7 @@ Narrow down your customer list based on proximity or travel time.
    * **Example**: You can filter to show only customers within a 4.35-mile radius or up to 15.53 miles, based on your service range.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
-![](../../images/Sites\&Leads-Leads_timestamp_5_to_09.png)
+![](<../../.gitbook/assets/Sites 1.png>)
 
 ### Productivity Tips
 
