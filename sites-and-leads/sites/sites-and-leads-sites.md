@@ -141,7 +141,7 @@ See customer sites close to your current location on the map.
 1. **Tap** the **Around Me button** to display nearby sites on the map.
 2. You can **zoom in and zoom out** to view the customer's location more closely.
 
-![](<../../.gitbook/assets/Sites (3).png>)
+![](<../../.gitbook/assets/Sites 1.png>)
 
 #### Filtering by Distance or Time
 
@@ -152,7 +152,7 @@ Narrow down your customer list based on proximity or travel time.
    * **Example**: You can filter to show only customers within a 4.35-mile radius or up to 15.53 miles, based on your service range.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
-![](<../../.gitbook/assets/Sites 1.png>)
+![](<../../.gitbook/assets/Sites 1 (1).png>)
 
 ### Productivity Tips
 
