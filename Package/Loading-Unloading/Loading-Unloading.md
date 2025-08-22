@@ -30,11 +30,7 @@ Within the Packages section, you can switch between two main functions: Loading 
 
 To get a quick overview of your parcels' status, look for the **Parcel icon**.
 
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_21–0_to_27 (2).gif>)
-
 ![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_37–0_to_47.gif>)
-
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_37–0_to_47 (1).gif>)
 
 ⚠️ **Important**: This guide focuses on the app's functionality based on the provided sources. Information regarding system requirements, installation, or initial setup steps are not available in the given material. You may need to consult other documentation for those details.
 
@@ -98,8 +94,6 @@ You can add important notes or details to package information in both Loading an
 You can add images of packages, especially useful for returned or picked-up items in the Unloading tab.
 
 ![](<../../.gitbook/assets/Loaded successfully (3).png>)
-
-![](<../../.gitbook/assets/Add photos.png>)
 
 #### Option A: Taking a New Photo
 
