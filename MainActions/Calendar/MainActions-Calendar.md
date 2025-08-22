@@ -61,10 +61,6 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
 
 ![](../../images/MainActions-Calendar_timestamp_0_to_55–1_to_03.gif)
 
-![](../../images/MainActions-Calendar_timestamp_1_to_16–1_to_23.gif)
-
-![](../../images/MainActions-Calendar_timestamp_1_to_25–1_to_31.gif)
-
 4\. Once you've chosen your date, tap **OK** to confirm your selection or **Cancel** to close the pop-up without changing the date.
 
 ![](../../images/MainActions-Calendar_timestamp_1_to_53–2_to_04.gif)
@@ -76,19 +72,13 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
 
 ![](../../images/MainActions-Calendar_timestamp_2_to_12–2_to_19.gif)
 
-![](../../images/MainActions-Calendar_timestamp_2_to_19–2_to_30.gif)
-
 **3.3. Using Filters and Display Options** To refine your view or access actions:
 
 1. Tap the **filter button** at the **top right** of the screen.
 
 ![](../../images/MainActions-Calendar_timestamp_2_to_33–2_to_37.gif)
 
-2. From this menu, you can:
-
-![](../../images/MainActions-Calendar_timestamp_2_to_37–2_to_43.gif)
-
-![](../../images/MainActions-Calendar_timestamp_5_to_33–5_to_44.gif)
+2. From this menu, you can switch between Week, Day and List
 
 ![](../../images/MainActions-Calendar_timestamp_5_to_44–5_to_53.gif)
 
@@ -115,10 +105,6 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
 3. **Full Screen Map View:**
 
 ![](../../images/MainActions-Calendar_timestamp_4_to_23–4_to_29.gif)
-
-![](../../images/MainActions-Calendar_timestamp_4_to_42–4_to_54.gif)
-
-![](../../images/MainActions-Calendar_timestamp_4_to_54–5_to_01.gif)
 
 **3.6. Returning to the Main Calendar Screen** You can always return to the main calendar screen by tapping the **back arrow** at the **top left**.
 
