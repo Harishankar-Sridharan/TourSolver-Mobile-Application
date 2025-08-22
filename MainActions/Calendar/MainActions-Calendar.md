@@ -116,7 +116,7 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
 
 ![](../../images/MainActions-Calendar_timestamp_4_to_23–4_to_29.gif)
 
-![GIF at 4:42–4:54](../../images/MainActions-Calendar_timestamp_4_to_42–4_to_54.gif)
+![](../../images/MainActions-Calendar_timestamp_4_to_42–4_to_54.gif)
 
 ![](../../images/MainActions-Calendar_timestamp_4_to_54–5_to_01.gif)
 
