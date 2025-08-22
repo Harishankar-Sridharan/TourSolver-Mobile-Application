@@ -112,7 +112,11 @@ This is crucial for accurate Pickup management.
 
 Document your work with clear images.
 
+1. Tap the **scanner** to scan the QR code
+
 ![](../../images/Intervention-Delivery_timestamp_3_to_10–3_to_17.gif)
+
+2. Once scanned, the barcode number will appear along with a green circle next to it."
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_17–3_to_21.gif)
 
