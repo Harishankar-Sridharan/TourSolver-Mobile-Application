@@ -94,20 +94,24 @@ The Docs section allows you to handle all necessary paperwork digitally.
 
 This is crucial for accurate delivery management.
 
+1. Tap the scanner to scan the QR code
+
 ![](../../images/Intervention-Delivery_timestamp_2_to_06–2_to_13.gif)
 
-![](../../images/Intervention-Delivery_timestamp_2_to_15–2_to_25.gif)
+2. Once scanned, the barcode number will appear along with a green circle next to it."
 
 ![](../../images/Intervention-Delivery_timestamp_2_to_25–2_to_31.gif)
 
 4. You will see information such as: **Customers collected date and time**, **delivered to the customer date and time**, **order name**, and **customer name and address**.
 5. You can also enter any **remarks** in the **comment box** provided.
 
+
+
 ![](../../images/Intervention-Delivery_timestamp_2_to_55–2_to_59.gif)
 
-![](../../images/Intervention-Delivery_timestamp_2_to_59–3_to_05.gif)
+6. Tap **Save** to update the changes
 
-![](../../images/Intervention-Delivery_timestamp_3_to_05–3_to_10.gif)
+![](../../images/Intervention-Delivery_timestamp_2_to_59–3_to_05.gif)
 
 **Visual Guidance Placeholder:**
 
@@ -115,17 +119,23 @@ This is crucial for accurate delivery management.
 
 #### Capturing and Uploading Photos (Photo Section)
 
-Document your work with clear images.
-
-![](../../images/Intervention-Delivery_timestamp_3_to_10–3_to_17.gif)
+1. Document your work with clear images.
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_17–3_to_21.gif)
 
+2. Tap **Camera** icon to take a snap
+
 ![](../../images/Intervention-Delivery_timestamp_3_to_21–3_to_26.gif)
+
+3. Select the **tick mark** to confirm and upload the photo."
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_26–3_to_30.gif)
 
+Tap **photo** icon to upload an image from the gallery
+
 ![](../../.gitbook/assets/Intervention-Delivery_removed_personal.gif)
+
+Tap **Save** to update the changes
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_41–3_to_45.gif)
 
@@ -133,27 +143,23 @@ Document your work with clear images.
 
 Provide important context or notes for the back office.
 
-![](../../images/Intervention-Delivery_timestamp_3_to_45–3_to_49.gif)
-
 ![](../../images/Intervention-Delivery_timestamp_3_to_49–3_to_53.gif)
 
 #### Uploading Intervention Reports (Report Section)
 
 Complete your official documentation.
 
-1. **Upload the intervention report** and **select the appropriate report type**.
+1. **Upload the intervention report.**&#x20;
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_53–3_to_59.gif)
+
+2. **Select the appropriate report type**.
 
 ![](../../images/Intervention-Delivery_timestamp_4_to_03–4_to_07.gif)
 
 #### Capturing Customer Signatures (Signature Section)
 
 Secure customer acknowledgement easily.
-
-![](../../images/Intervention-Delivery_timestamp_4_to_16–4_to_21.gif)
-
-![](../../images/Intervention-Delivery_timestamp_4_to_25–4_to_29.gif)
 
 ![](../../images/Intervention-Delivery_timestamp_4_to_29–4_to_34.gif)
 
@@ -170,6 +176,8 @@ Finalize your work and sync it with the back office.
 2. A **confirmation pop-up** will appear.
 
 ![](../../images/Intervention-Delivery_timestamp_4_to_41–4_to_46.gif)
+
+3. Once you tap **confirm**, the status will changed to completed
 
 ![](../../images/Intervention-Delivery_timestamp_4_to_49–5_to_00.gif)
 
