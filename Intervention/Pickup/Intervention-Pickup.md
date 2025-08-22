@@ -120,7 +120,7 @@ Document your work with clear images.
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_26–3_to_30.gif)
 
-![](../../images/Intervention-Delivery_timestamp_3_to_38–3_to_41.gif)
+![](../../.gitbook/assets/Intervention-Delivery_removed_personal.gif)
 
 ![](../../images/Intervention-Delivery_timestamp_3_to_41–3_to_45.gif)
 
