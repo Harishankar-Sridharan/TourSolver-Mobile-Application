@@ -11,10 +11,7 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
   * **iOS** (Apple) devices need to be running **version 15.5 or later**.
 * **Installation & Setup Steps** Getting the Nomadia TourSolver app on your device is quick and easy!
   1. **Download the App**: You can download the Nomadia TourSolver application from either the **iOS App Store** (for Apple devices) or the **Google Play Store** (for Android devices).
-
-![](../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_04.png)
-
-2. **Launch the App**: After downloading, find the **TourSolver icon** on your device's main screen and **tap it** to open the app.
+  2. **Launch the App**: After downloading, find the **TourSolver icon** on your device's main screen and **tap it** to open the app.
 
 ![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_04 (1).png>)
 
@@ -24,25 +21,18 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
   * **Blue Login Button**: Located in the center of the screen, you'll tap this button after entering your details.
   * **App Version Number**: You'll find this displayed in the bottom right corner of the screen.
 
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33 (1).png>)
-
 ### Feature Explanations with Benefits
 
 * **Password Visibility Toggle (Eye Icon)** The **password field** features a convenient **eye icon**. This feature allows you to **toggle the visibility of your typed password**. This means you can temporarily see the characters you're typing to ensure you haven't made any mistakes, then hide them again for security.
   * 💡 **Tip**: Use the eye icon to double-check your password before tapping **Login**, especially if you're having trouble logging in!
 
-![](../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_51.png)
-
 ### Common Tasks with Detailed Steps
 
 * **Logging In to the App** Your **user ID and password** are set by your **TourSolver back office administrator**. If you ever need to **change your password**, please **contact your administrator** directly. Here's how to log in:
   1. **Enter Your Information**: Tap into the **User ID field** and type your user ID. Then, tap into the **Password field** and type your password.
+  2. **Tap Login**: Once both fields are filled, **tap the blue Login button**.
 
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_46 (1).png>)
-
-2. **Tap Login**: Once both fields are filled, **tap the blue Login button**.
-
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_51 (1).png>)
+![](../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33.png)
 
 3. **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
 
