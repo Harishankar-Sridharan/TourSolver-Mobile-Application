@@ -103,8 +103,6 @@ You can add images of packages, especially useful for returned or picked-up item
 
 #### Option A: Taking a New Photo
 
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_4_to_14–4_to_18.gif>)
-
 ![](<../../.gitbook/assets/Loaded successfully (4).png>)
 
 #### Option B: Choosing an Existing Image from Your Gallery
